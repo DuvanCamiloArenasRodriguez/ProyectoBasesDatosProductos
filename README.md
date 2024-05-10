@@ -4,7 +4,7 @@ A continuación se realizan las diferentes consultas solicitadas por el docente:
 
 **Nombre: ** Duván Camilo Arenas Rodríguez
 
-![https://github.com/DuvanCamiloArenasRodriguez/ProyectoBasesDatosProductos/blob/main/img/DER.png]()
+![]()
 
 
 
